@@ -1,9 +1,8 @@
-# Assignment Description
+# Harry Potter Sorting Hat
 
-written by 
+written by MM ;23
 
 edit with appropriate link:
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Harry-Potter-Day-MM)](https://repl.it/github/athenian-ct-projects/Harry-Potter-Day-MM)
+* This is a sorting hat quiz for Harry Potter Day. No additional materials are required.
