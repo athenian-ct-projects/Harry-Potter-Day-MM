@@ -1,4 +1,4 @@
-print("The SOrting Hat \nby MM '23")
+print("The Sorting Hat \nby MM '23")
 
 #inside the function is the game
 def start_game():
